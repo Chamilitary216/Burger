@@ -5,6 +5,8 @@
      * **burger_name**: a string.
      * **devoured**: a boolean.
 
+     
+DROP DATABASE IF EXISTS burgers_db;
 
 CREATE DATABASE burgers_db;
 
